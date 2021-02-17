@@ -36,7 +36,6 @@ contract Artist is ERC721 {
     }
 }
 
-// https://github.com/deepcrazy/tokenFactory-exercise2/blob/master/tokenFactory.sol
 
 contract Painting is ERC721 {
     // properties for the painting
